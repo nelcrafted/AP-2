@@ -49,7 +49,7 @@ int main () {
     cout << "Hasil Perkalian (int) : " << hasilKaliInt << endl;
     cout << "Hasil Perkalian (double) : " << hasilKaliDouble << endl;
 
-    // Menggunak fungsi rekursif
+    // Menggunakan fungsi rekursif
     int angka = 5;
     cout << "Faktorial dari " << angka << " adalah " << faktorial(angka) << endl;
 }
