@@ -10,7 +10,7 @@ int main () {
 
     string namaPengguna = "Alya";
     
-    sapa(namaPengguna); // namaPEngguna adalah parameter aktual
+    sapa(namaPengguna); // namaPengguna adalah parameter aktual
 
     return 0;
 }
