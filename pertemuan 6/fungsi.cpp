@@ -6,7 +6,7 @@ void tampilkanPesan() {
     cout << "====== Selamat Datang di AP 2 ! ======" << endl;
 }
 
-// Fungi dengan nilai balikan (int, double, float, dsb)
+// Fungsi dengan nilai balikan (int, double, float, dsb)
 int tambah(int a, int b) {
     return a + b;
 }
